@@ -1,3 +1,3 @@
-Automate Hardening Compliance Scan on Azure VM
+Automate Hardening Compliance Scan on Azure VM <br>
 This project helps engineers to simplifies their workload to perform Hardening Compliance Scan on Azure VM and increase the security in company’s cloud instances. Uses Ansible Lockdown, CIS Benchmark, Bash, Python & YAML in the project to perform automation and check compliance against CIS Benchmark. The automation begins by checking all rules in the CIS Benchmark, a JSON report will be generated and converted into excel for the team to analysis the level of compliance in the Azure VM<img width="14292" height="123" alt="image" src="https://github.com/user-attachments/assets/2f274beb-ab68-44f7-bb78-a9b41ddf04b5" />
 
